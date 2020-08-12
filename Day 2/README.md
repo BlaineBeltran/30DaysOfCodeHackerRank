@@ -10,7 +10,7 @@ Be sure to use precise values for your calculations, or you may end up with an i
 
 ## Input Format
 There are  lines of numeric input: 
-The first line has a double, ***mealCost*** (the cost of the meal before tax and tip). 
+The first line has a double, ***mealCost*** (the cost of the meal before tax and tip).
 The second line has an integer, ***tipPercent*** (the percentage of ***mealCost*** being added as tip). 
 The third line has an integer, ***taxPercent*** (the percentage of ***mealCost*** being added as tax).
 
@@ -35,9 +35,9 @@ Given:
 
 Calculations:
 
-***tip = 12 X 20/100 = 2.4***
-***tax = 12 X 8/100 = 0.96***
-***totalCost = mealCost + tip + tax = 12 + 2.4 + 0.96 = 15.36***
-***round(totalCost) = 15***
+***tip = 12 X 20/100 = 2.4***.
+***tax = 12 X 8/100 = 0.96***.
+***totalCost = mealCost + tip + tax = 12 + 2.4 + 0.96 = 15.36***.
+***round(totalCost) = 15***.
 
 We round ***totalCost*** to the nearest dollar (integer) and then print our result **15**.
