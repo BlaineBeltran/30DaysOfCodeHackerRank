@@ -13,7 +13,7 @@ Complete the stub code provided in your editor to print whether or not ***n*** i
 
 
 ## Input Format
-TA single line containing a positive integer,***n***.
+A single line containing a positive integer, ***n***.
 
 ## Output Format
 Print the total meal cost, where ***totalCost*** is the rounded integer result of the entire bill (***mealCost*** with added tax and tip).
