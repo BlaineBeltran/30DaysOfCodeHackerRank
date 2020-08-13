@@ -28,13 +28,11 @@ Print the total meal cost, where ***totalCost*** is the rounded integer result o
 Complete the method definitions provided in the editor so they meet the specifications outlined above; the code to test your work is already in the editor. If your methods are implemented correctly, each test case will print **2** or **3** lines (depending on whether or not a valid ***initialAge*** was passed to the constructor).
 ## Sample Input
 ```python
-
 4
 -1
 10
 16
 18
-
 ```
 ## Sample Output
 ```python
